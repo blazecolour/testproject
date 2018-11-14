@@ -1,3 +1,5 @@
+# [Demo](http://cautious-station.surge.sh/)
+
 # Описание
   Отборочное тестовое задание на курсы стажировки разработчиков пользовательских интерфейсов.
 # Установка
@@ -66,3 +68,6 @@ npm run build
 [GitHub]("https://github.com")
 /
 [Bitbucket]("https://bitbucket.org")
+
+
+http://cautious-station.surge.sh/ - потрогать
